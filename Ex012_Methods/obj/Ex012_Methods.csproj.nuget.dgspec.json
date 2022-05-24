@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\Ex012_Methods\\Ex012_Methods.csproj": {}
+    "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Ex003\\Ex012_Methods\\Ex012_Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\Ex012_Methods\\Ex012_Methods.csproj": {
+    "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Ex003\\Ex012_Methods\\Ex012_Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\Ex012_Methods\\Ex012_Methods.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Ex003\\Ex012_Methods\\Ex012_Methods.csproj",
         "projectName": "Ex012_Methods",
-        "projectPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\Ex012_Methods\\Ex012_Methods.csproj",
+        "projectPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Ex003\\Ex012_Methods\\Ex012_Methods.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\Ex012_Methods\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Ex003\\Ex012_Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
